@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://kingstonnet.github.io/Testdeploy/winformtest.appinstaller"
-	Version="1.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.4.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="ec58c188-d9a0-46c8-bfbc-9b4df2dc2817"
-		Version="1.0.2.0"
+		Version="1.0.4.0"
 		Publisher="CN=CKG"
-		Uri="https://kingstonnet.github.io/Testdeploy/winformtest_1.0.2.0_Debug_Test/winformtest_1.0.2.0_AnyCPU_Debug.msixbundle" />
+		Uri="https://kingstonnet.github.io/Testdeploy/winformtest_1.0.4.0_Debug_Test/winformtest_1.0.4.0_x64_Debug.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
