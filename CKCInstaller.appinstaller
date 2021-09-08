@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://kingstonnet.github.io/Testdeploy/CKCInstaller.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="a534f05d-d3f5-4517-8105-0b154184dddd"
+		Version="1.0.0.0"
+		Publisher="CN=CKC"
+		Uri="https://kingstonnet.github.io/Testdeploy/CKCInstaller_1.0.0.0_Debug_Test/CKCInstaller_1.0.0.0_x64_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
